@@ -1,0 +1,8 @@
+.item-detail {
+  text-align: center;
+}
+
+.item-detail h3,
+.item-detail p {
+  color: white;
+}

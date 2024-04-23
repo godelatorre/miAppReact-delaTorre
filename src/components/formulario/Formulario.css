@@ -1,0 +1,57 @@
+.contenedor {
+  max-width: 800px; 
+  margin: 20px auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.etiquetas {
+  text-transform: uppercase;
+  color: greenyellow;
+  padding: 5px;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+}
+
+.botones {
+  margin-top: 10px;
+}
+
+.mensaje {
+  color: black;
+  font-weight: bold;
+  margin-top: 10px;
+  display: inline-block; 
+}
+
+.feedback {
+  color: orangered;
+  font-weight: bold;
+  font-size: 25px;
+  border: none; 
+}
+
+textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.contenedor-comentario {
+  text-align: left;
+}
+
+.contenedor-comentario textarea {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+

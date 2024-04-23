@@ -1,0 +1,49 @@
+.transparent-footer {
+    background-color: rgba(0, 0, 0, 0.5) !important; 
+    filter: blur(0.3px); 
+  }
+
+  .follow-us {
+    margin-bottom: 1.5rem; 
+  }
+  
+  .social-icons {
+    margin-bottom: 1rem; 
+  }
+  
+  .payment-methods {
+    margin-bottom: 0.5rem;
+  }
+  
+  .text-facebook {
+    color: #4267B2; 
+    font-size: 35px;
+  }
+  
+  .text-whatsapp {
+    color: #25D366;
+    font-size: 35px; 
+  }
+  
+  .text-visa {
+    color: #007bff; 
+    font-size: 35px; 
+  }
+  
+  .text-visa.larger-icon svg {
+    font-size: 35px; 
+  }
+  
+  .text-mastercard {
+    color: #FF5F00; 
+    font-size: 35px;
+  }
+  
+  .text-mercadopago {
+    color: #32c3c6;
+    font-size: 35px; 
+  }
+  
+  
+  
+  

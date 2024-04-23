@@ -1,0 +1,17 @@
+
+.counter {
+    color: white;
+}
+
+.d-flex {
+    margin-bottom: 10px; }
+
+.btn {
+    font-weight: bold; 
+}
+
+.btn-primary {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
